@@ -40,6 +40,7 @@ class FilmReleaseContainer extends Component {
       <div className="film-release-container">
         <h2>Upcoming Film Releases(UK)</h2>
         <FilmReleaseList films={this.state.films}/>
+        <a href="https://www.imdb.com/calendar/?region=gb" target="_blank">See More</a>
       </div>
     );
   }
