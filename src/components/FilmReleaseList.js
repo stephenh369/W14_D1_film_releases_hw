@@ -18,4 +18,4 @@ class FilmReleaseList extends Component {
   }
 }
 
-export default FilmRelease;
+export default FilmReleaseList;
