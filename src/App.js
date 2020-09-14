@@ -1,9 +1,12 @@
 import React from 'react';
 import './App.css';
+import FilmReleaseContainer from './containers/FilmReleaseContainer';
 
 function App() {
   return (
-    <h2>Upcoming Film Releases(UK)</h2>
+    <>
+      <FilmReleaseContainer/>
+    </>
   );
 }
 
