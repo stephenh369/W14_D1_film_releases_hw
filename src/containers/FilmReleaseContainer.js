@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FilmReleaseList from './components/FilmReleaseList';
+import FilmReleaseList from '../components/FilmReleaseList';
 
 class FilmReleaseContainer extends Component {
   constructor() {
