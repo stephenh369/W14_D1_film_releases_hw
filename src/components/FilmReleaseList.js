@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './FilmReleaseList.css';
 import FilmRelease from './FilmRelease';
 
 class FilmReleaseList extends Component {

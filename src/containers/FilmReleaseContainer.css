@@ -1,0 +1,15 @@
+
+.film-release-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  width: fit-content;
+  text-align: center;
+  color: #61dafb;
+  border-bottom: 5px solid #61dafb;
+}

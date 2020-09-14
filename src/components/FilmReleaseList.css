@@ -1,0 +1,29 @@
+.film-release-list {
+  display: grid;
+  width: 70vw;
+  background-color: #2a344b;
+  border-radius: 5%;
+  margin: 0 10vw;
+  padding: 1rem;
+  grid-template-rows: 1fr;
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.film-release {
+  color: #61dafb;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 2px solid #61dafb;
+  color: #f4f4f4;
+  transition: all ease-in-out .25s;
+}
+a:hover {
+  color: #61dafb;
+  font-size: 18px;
+  transition: all ease-in-out .25s;
+}

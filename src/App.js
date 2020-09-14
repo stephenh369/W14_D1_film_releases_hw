@@ -4,9 +4,9 @@ import FilmReleaseContainer from './containers/FilmReleaseContainer';
 
 function App() {
   return (
-    <>
+    <div className="app">
       <FilmReleaseContainer/>
-    </>
+    </div>
   );
 }
 
